@@ -1,0 +1,60 @@
+*{
+	padding:10px;
+	margin: 0;
+}
+
+nav{
+	background-color: aqua;
+	padding-top: 2s0px;
+	overflow: hidden;
+	position: relative;
+}
+li{
+	float: left;
+	padding: 10px;
+list-style-type: none;
+text-transform: uppercase;
+font-size: 35px
+}
+
+.logo{
+	width: 200px;
+	height: 200px;
+	float: right;
+	padding-right: 100px
+}
+
+.first-section{
+	font-size: 35px;
+	padding-top: 50px;
+	background-size: cover;
+	background-image: url(image/image.jfif);
+	height: 300px;
+	background-position: center center;
+}
+.first-section p{
+	padding-top: 160px;
+}
+a{
+text-decoration: none;
+color: pink;
+}
+a:hover{
+color: blue;
+background: black;
+
+}
+.footer{
+	background-color: black;
+	height: 100px;
+	padding-top: 100px;
+	width: 150%;
+	position: relative;
+}
+.footer{
+
+}
+
+
+
+
